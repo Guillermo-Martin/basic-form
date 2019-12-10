@@ -1,0 +1,39 @@
+.form1 {
+  border: 1px solid black;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.signin1 {
+  font-size: 50px;
+  text-align: center;
+  margin: 50px auto;
+  width: 4em;
+}
+
+.credentials1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.email1 {
+  margin-right: 15px;
+}
+
+.button1 {
+  margin: 10px;
+  text-align: center;
+}
+
+.button1 button {
+  padding: 10px 40px;
+  font-size: 15px;
+  border-radius: 100px;
+  border: none;
+}
+
+.credentials1 input {
+  margin-left: 5px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
